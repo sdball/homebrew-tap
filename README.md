@@ -4,6 +4,7 @@ My own custom homebrew formulas
 
 ## Available Formulas
 
+- [cattaca](https://github.com/sdball/cattaca)
 - [printable-ascii](https://github.com/sdball/printable-ascii)
 
 ## Install
@@ -29,4 +30,3 @@ brew install <formula>   # e.g. brew install printable-ascii
 ## Documentation
 
 `brew help tap` or [Homebrew's Taps documentation](https://docs.brew.sh/Taps).
-
