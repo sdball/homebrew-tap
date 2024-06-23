@@ -4,6 +4,7 @@ My own custom homebrew formulas
 
 ## Available Formulas
 
+- [what-the-time](https://github.com/sdball/what-the-time) (`wtt`)
 - [cattaca](https://github.com/sdball/cattaca)
 - [printable-ascii](https://github.com/sdball/printable-ascii)
 
